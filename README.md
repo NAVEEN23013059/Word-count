@@ -41,8 +41,8 @@ wordcount(filename)
 ```
 
 ### OUTPUT:
-![](./Screenshot%202023-12-25%20223858.png)
-![](./Screenshot%202023-12-25%20223929.png)
+![](.![image](https://github.com/NAVEEN23013059/Word-count/assets/150319555/7562f9ef-8810-48d0-928e-740842d4663e)
+![](.![image](https://github.com/NAVEEN23013059/Word-count/assets/150319555/8de3eb70-e71a-4ce6-8071-edc284f71f5e)
 
 
 
